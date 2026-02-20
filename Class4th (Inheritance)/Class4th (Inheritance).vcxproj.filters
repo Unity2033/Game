@@ -15,18 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Program.cpp">
+    <ClCompile Include="Source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Message.cpp">
+    <ClCompile Include="..\Program\Consumable.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Program\Potion.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="stdafx.h">
+    <ClInclude Include="..\Program\Consumable.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Message.h">
+    <ClInclude Include="..\Program\Potion.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
