@@ -3,51 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Stat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:Stat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Stat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:Stat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Dexterity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:Dexterity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Wisdom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:Wisdom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Strength.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:Strength.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\charconv||{3B902123-F8A7-4915-9F01-361F908088D0}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Dexterity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:Dexterity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Wisdom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:Wisdom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Strength.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:Strength.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Message.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:Message.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Stone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:Stone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Stone.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:Stone.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:Block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Concrete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:Concrete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Concrete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:Concrete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:Block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AEC590-DA24-4C7B-970F-D063C960E255}|..\\Class5th (Polymorphism)\\Class5th (Polymorphism).vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Strength.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85AEC590-DA24-4C7B-970F-D063C960E255}|..\\Class5th (Polymorphism)\\Class5th (Polymorphism).vcxproj|solutionrelative:Strength.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85AEC590-DA24-4C7B-970F-D063C960E255}|..\\Class5th (Polymorphism)\\Class5th (Polymorphism).vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Class5th (Polymorphism)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\charconv||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDAC2AAC-54C4-471C-A84A-76DEF3E150A2}|..\\Class4th (Inheritance)\\Class4th (Inheritance).vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Potion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -56,10 +51,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EDAC2AAC-54C4-471C-A84A-76DEF3E150A2}|..\\Class4th (Inheritance)\\Class4th (Inheritance).vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EDAC2AAC-54C4-471C-A84A-76DEF3E150A2}|..\\Class4th (Inheritance)\\Class4th (Inheritance).vcxproj|solutionrelative:Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Message.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:Message.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDAC2AAC-54C4-471C-A84A-76DEF3E150A2}|..\\Class4th (Inheritance)\\Class4th (Inheritance).vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Class4th (Inheritance)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -101,7 +92,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -125,46 +116,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Strength.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Strength.h",
-              "RelativeDocumentMoniker": "Strength.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Strength.h",
-              "RelativeToolTip": "Strength.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-23T12:17:30.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Stat.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Stat.cpp",
-              "RelativeDocumentMoniker": "Stat.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Stat.cpp",
-              "RelativeToolTip": "Stat.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-23T11:34:43.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Stat.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Stat.h",
-              "RelativeDocumentMoniker": "Stat.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Stat.h",
-              "RelativeToolTip": "Stat.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Title": "Stone.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Stone.cpp",
+              "RelativeDocumentMoniker": "Stone.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Stone.cpp",
+              "RelativeToolTip": "Stone.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-25T12:09:57.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stone.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Stone.h",
+              "RelativeDocumentMoniker": "Stone.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Stone.h",
+              "RelativeToolTip": "Stone.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-23T11:34:41.129Z",
+              "WhenOpened": "2026-02-25T12:09:34.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Concrete.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Concrete.cpp",
+              "RelativeDocumentMoniker": "Concrete.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Concrete.cpp",
+              "RelativeToolTip": "Concrete.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-25T12:09:02.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Concrete.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Concrete.h",
+              "RelativeDocumentMoniker": "Concrete.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Concrete.h",
+              "RelativeToolTip": "Concrete.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-25T12:08:24.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Block.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Block.cpp",
+              "RelativeDocumentMoniker": "Block.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Block.cpp",
+              "RelativeToolTip": "Block.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-25T12:05:38.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Block.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Block.h",
+              "RelativeDocumentMoniker": "Block.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Block.h",
+              "RelativeToolTip": "Block.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-25T12:05:36.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Strength.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Strength.h",
+              "RelativeDocumentMoniker": "Strength.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Strength.h",
+              "RelativeToolTip": "Strength.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-25T11:11:24.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class5th (Polymorphism)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class5th (Polymorphism)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Class5th (Polymorphism)\\Source.cpp",
+              "RelativeToolTip": "..\\Class5th (Polymorphism)\\Source.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA4wFwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-25T11:03:57.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "charconv",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\charconv",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\charconv",
@@ -172,12 +228,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\charconv",
               "ViewState": "AQIAABQAAAAAAAAAAAAEwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-11T11:28:41.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T11:28:41.018Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 22,
               "Title": "ostream",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\ostream",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\ostream",
@@ -189,107 +244,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAAAEMAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-10T11:04:35.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Message.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Message.cpp",
-              "RelativeDocumentMoniker": "Message.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Message.cpp",
-              "RelativeToolTip": "Message.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAoAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-20T12:10:44.913Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Dexterity.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Dexterity.cpp",
-              "RelativeDocumentMoniker": "Dexterity.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Dexterity.cpp",
-              "RelativeToolTip": "Dexterity.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-23T12:21:17.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "stdafx.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\stdafx.h",
               "RelativeDocumentMoniker": "stdafx.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\stdafx.h",
               "RelativeToolTip": "stdafx.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwMAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-20T12:05:11.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Wisdom.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Wisdom.cpp",
-              "RelativeDocumentMoniker": "Wisdom.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Wisdom.cpp",
-              "RelativeToolTip": "Wisdom.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-23T12:21:09.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Strength.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Strength.cpp",
-              "RelativeDocumentMoniker": "Strength.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Strength.cpp",
-              "RelativeToolTip": "Strength.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-23T12:21:06.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Wisdom.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Wisdom.h",
-              "RelativeDocumentMoniker": "Wisdom.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Wisdom.h",
-              "RelativeToolTip": "Wisdom.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-23T12:18:36.263Z",
+              "WhenOpened": "2026-02-20T12:05:11.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dexterity.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Dexterity.h",
-              "RelativeDocumentMoniker": "Dexterity.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Dexterity.h",
-              "RelativeToolTip": "Dexterity.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-23T12:18:07.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 21,
               "Title": "vcruntime_exception.h",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vcruntime_exception.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vcruntime_exception.h",
@@ -301,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 20,
               "Title": "type_traits",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\type_traits",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\type_traits",
@@ -313,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class4th (Inheritance)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class4th (Inheritance)\\Source.cpp",
@@ -325,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 19,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class1th (Stream)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class1th (Stream)\\Source.cpp",
@@ -337,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "delete_scalar.cpp",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
@@ -349,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "Consumable.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Consumable.h",
               "RelativeDocumentMoniker": "Consumable.h",
@@ -361,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Potion.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Potion.cpp",
               "RelativeDocumentMoniker": "Potion.cpp",
@@ -373,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "Potion.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Potion.h",
               "RelativeDocumentMoniker": "Potion.h",
@@ -386,18 +367,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Message.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Message.h",
-              "RelativeDocumentMoniker": "Message.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Message.h",
-              "RelativeToolTip": "Message.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-20T12:10:41.183Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "Consumable.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Consumable.cpp",
               "RelativeDocumentMoniker": "Consumable.cpp",
@@ -409,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class2th (Class)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class2th (Class)\\Source.cpp",
@@ -421,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",

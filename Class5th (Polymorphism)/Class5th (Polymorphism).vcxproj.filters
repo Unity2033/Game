@@ -15,30 +15,39 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Program.cpp">
+    <ClCompile Include="Source.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Block.cpp">
+    <ClCompile Include="..\Program\Dexterity.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Concrete.cpp">
+    <ClCompile Include="..\Program\Message.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Stone.cpp">
+    <ClCompile Include="..\Program\Stat.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Program\Strength.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Program\Wisdom.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="stdafx.h">
+    <ClInclude Include="..\Program\Dexterity.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Block.h">
+    <ClInclude Include="..\Program\Message.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Concrete.h">
+    <ClInclude Include="..\Program\Stat.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Stone.h">
+    <ClInclude Include="..\Program\Strength.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Program\Wisdom.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

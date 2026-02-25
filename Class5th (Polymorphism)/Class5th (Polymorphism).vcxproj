@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{08f2bb1a-b254-4eb3-8a7c-61de85ac966d}</ProjectGuid>
-    <RootNamespace>Program</RootNamespace>
+    <ProjectGuid>{85aec590-da24-4c7b-970f-d063c960e255}</ProjectGuid>
+    <RootNamespace>Class5thPolymorphism</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -104,9 +104,6 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <PrecompiledHeader>NotUsing</PrecompiledHeader>
-      <AdditionalIncludeDirectories>
-      </AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -121,9 +118,6 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <PrecompiledHeader>NotUsing</PrecompiledHeader>
-      <AdditionalIncludeDirectories>
-      </AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -133,16 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Block.cpp" />
-    <ClCompile Include="Concrete.cpp" />
-    <ClCompile Include="Program.cpp" />
-    <ClCompile Include="Stone.cpp" />
+    <ClCompile Include="..\Program\Dexterity.cpp" />
+    <ClCompile Include="..\Program\Message.cpp" />
+    <ClCompile Include="..\Program\Stat.cpp" />
+    <ClCompile Include="..\Program\Strength.cpp" />
+    <ClCompile Include="..\Program\Wisdom.cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Block.h" />
-    <ClInclude Include="Concrete.h" />
-    <ClInclude Include="stdafx.h" />
-    <ClInclude Include="Stone.h" />
+    <ClInclude Include="..\Program\Dexterity.h" />
+    <ClInclude Include="..\Program\Message.h" />
+    <ClInclude Include="..\Program\Stat.h" />
+    <ClInclude Include="..\Program\Strength.h" />
+    <ClInclude Include="..\Program\Wisdom.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
