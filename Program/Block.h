@@ -6,5 +6,6 @@ protected:
 	float resistance;
 public:
 	virtual void Describe() = 0;
+	virtual ~Block();
 };
 
