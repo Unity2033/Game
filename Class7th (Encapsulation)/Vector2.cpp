@@ -1,4 +1,4 @@
-#include "stdafx.h"
+#include "../Program/stdafx.h"
 #include "Vector2.h"
 
 Vector2::Vector2(int x, int y)
@@ -49,4 +49,24 @@ const Vector2& Vector2::operator--()
 	--y;
 
 	return *this;
+}
+
+const Vector2& Vector2::operator++(int)
+{
+	Vector2 clone(x, y);
+
+	this->x++;
+	this->y++;
+
+	return clone;
+}
+
+const Vector2& Vector2::operator--(int)
+{
+	Vector2 clone(x, y);
+
+	this->x--;
+	this->y--;
+
+	return clone;
 }
