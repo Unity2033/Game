@@ -7,10 +7,25 @@
       "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D465F02-899B-467F-8965-2544CA4DE108}|..\\Class6th (Abstract)\\Class6th (Abstract).vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Container.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:Container.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:Container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D465F02-899B-467F-8965-2544CA4DE108}|..\\Class6th (Abstract)\\Class6th (Abstract).vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Concrete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D465F02-899B-467F-8965-2544CA4DE108}|..\\Class6th (Abstract)\\Class6th (Abstract).vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D465F02-899B-467F-8965-2544CA4DE108}|..\\Class6th (Abstract)\\Class6th (Abstract).vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Stone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -61,10 +76,6 @@
       "AbsoluteMoniker": "D:0:0:{5D9DC7E6-50F4-48FD-9708-31777EECBCB8}|..\\Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Class3th (Constructor \u0026 Destructor)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{08F2BB1A-B254-4EB3-8A7C-61DE85AC966D}|Program.vcxproj|solutionrelative:stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{85AEC590-DA24-4C7B-970F-D063C960E255}|..\\Class5th (Polymorphism)\\Class5th (Polymorphism).vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Program\\Strength.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{85AEC590-DA24-4C7B-970F-D063C960E255}|..\\Class5th (Polymorphism)\\Class5th (Polymorphism).vcxproj|solutionrelative:Strength.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -73,9 +84,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{08DFC8EF-EFDB-4993-8CC7-529A63C844E0}|..\\Class2th (Class)\\Class2th (Class).vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Class2th (Class)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76DE86DA-AC78-4C3B-8B02-67298B7A34D4}|..\\Class1th (Stream)\\Class1th (Stream).vcxproj|C:\\Users\\Administrator\\Desktop\\Game\\Class1th (Stream)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -97,7 +105,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -121,85 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Block.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Block.cpp",
-              "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Block.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Block.cpp",
-              "RelativeToolTip": "..\\Class6th (Abstract)\\Block.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-03T12:14:57.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Stone.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Stone.cpp",
-              "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Stone.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Stone.cpp",
-              "RelativeToolTip": "..\\Class6th (Abstract)\\Stone.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-03T12:14:53.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Concrete.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Concrete.cpp",
-              "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Concrete.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Concrete.cpp",
-              "RelativeToolTip": "..\\Class6th (Abstract)\\Concrete.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-03T12:14:39.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Concrete.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Concrete.h",
-              "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Concrete.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Concrete.h",
-              "RelativeToolTip": "..\\Class6th (Abstract)\\Concrete.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-03T12:14:37.752Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Stone.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Stone.h",
-              "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Stone.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Stone.h",
-              "RelativeToolTip": "..\\Class6th (Abstract)\\Stone.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-03T12:14:28.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Stat.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Stat.cpp",
-              "RelativeDocumentMoniker": "Stat.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Stat.cpp",
-              "RelativeToolTip": "Stat.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-03T12:00:44.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Dexterity.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Dexterity.cpp",
               "RelativeDocumentMoniker": "Dexterity.cpp",
@@ -207,12 +137,11 @@
               "RelativeToolTip": "Dexterity.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-03T11:46:14.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T11:46:14.916Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Vector2.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class7th (Encapsulation)\\Vector2.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Encapsulation)\\Vector2.cpp",
@@ -220,12 +149,11 @@
               "RelativeToolTip": "..\\Class7th (Encapsulation)\\Vector2.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-03T11:43:09.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T11:43:09.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class7th (Encapsulation)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Encapsulation)\\Source.cpp",
@@ -233,12 +161,11 @@
               "RelativeToolTip": "..\\Class7th (Encapsulation)\\Source.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-03T11:37:04.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T11:37:04.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Message.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Message.cpp",
               "RelativeDocumentMoniker": "Message.cpp",
@@ -246,12 +173,11 @@
               "RelativeToolTip": "Message.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-03T11:33:41.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T11:33:41.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "charconv",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\charconv",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\charconv",
@@ -263,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "ostream",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\ostream",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\ostream",
@@ -281,40 +207,14 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-10T11:04:35.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Source.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Source.cpp",
-              "RelativeToolTip": "..\\Class6th (Abstract)\\Source.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAcwA8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-26T11:34:40.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Consumable.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class4th (Inheritance)\\Consumable.h",
-              "RelativeDocumentMoniker": "..\\Class4th (Inheritance)\\Consumable.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Class4th (Inheritance)\\Consumable.h",
-              "RelativeToolTip": "..\\Class4th (Inheritance)\\Consumable.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-03T11:21:38.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 4,
               "Title": "stdafx.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\stdafx.h",
               "RelativeDocumentMoniker": "stdafx.h",
@@ -322,11 +222,148 @@
               "RelativeToolTip": "stdafx.h",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-20T12:05:11.403Z"
+              "WhenOpened": "2026-02-20T12:05:11.403Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 7,
+              "Title": "Stone.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Stone.cpp",
+              "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Stone.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Stone.cpp",
+              "RelativeToolTip": "..\\Class6th (Abstract)\\Stone.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T12:14:53.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Block.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Block.cpp",
+              "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Block.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Block.cpp",
+              "RelativeToolTip": "..\\Class6th (Abstract)\\Block.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T12:14:57.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AQIAABkAAAAAAAAAAAA4wCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-10T12:27:07.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Container.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Container.cpp",
+              "RelativeDocumentMoniker": "Container.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Container.cpp",
+              "RelativeToolTip": "Container.cpp",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-04T11:05:39.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Container.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Container.h",
+              "RelativeDocumentMoniker": "Container.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Container.h",
+              "RelativeToolTip": "Container.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-04T11:03:17.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Stat.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Stat.cpp",
+              "RelativeDocumentMoniker": "Stat.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Stat.cpp",
+              "RelativeToolTip": "Stat.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T12:00:44.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Stone.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Stone.h",
+              "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Stone.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Stone.h",
+              "RelativeToolTip": "..\\Class6th (Abstract)\\Stone.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-03T12:14:28.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Concrete.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Concrete.h",
+              "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Concrete.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Concrete.h",
+              "RelativeToolTip": "..\\Class6th (Abstract)\\Concrete.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-03T12:14:37.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Source.cpp",
+              "RelativeToolTip": "..\\Class6th (Abstract)\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-26T11:34:40.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Concrete.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Concrete.cpp",
+              "RelativeDocumentMoniker": "..\\Class6th (Abstract)\\Concrete.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Class6th (Abstract)\\Concrete.cpp",
+              "RelativeToolTip": "..\\Class6th (Abstract)\\Concrete.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-03T12:14:39.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Consumable.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class4th (Inheritance)\\Consumable.h",
+              "RelativeDocumentMoniker": "..\\Class4th (Inheritance)\\Consumable.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Class4th (Inheritance)\\Consumable.h",
+              "RelativeToolTip": "..\\Class4th (Inheritance)\\Consumable.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-03T11:21:38.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "vcruntime_exception.h",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vcruntime_exception.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vcruntime_exception.h",
@@ -338,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Potion.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class4th (Inheritance)\\Potion.cpp",
               "RelativeDocumentMoniker": "..\\Class4th (Inheritance)\\Potion.cpp",
@@ -346,12 +383,11 @@
               "RelativeToolTip": "..\\Class4th (Inheritance)\\Potion.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-03T11:21:47.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T11:21:47.383Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class5th (Polymorphism)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class5th (Polymorphism)\\Source.cpp",
@@ -359,12 +395,11 @@
               "RelativeToolTip": "..\\Class5th (Polymorphism)\\Source.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-25T11:03:57.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T11:03:57.798Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Vector2.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class7th (Encapsulation)\\Vector2.h",
               "RelativeDocumentMoniker": "..\\Class7th (Encapsulation)\\Vector2.h",
@@ -372,12 +407,11 @@
               "RelativeToolTip": "..\\Class7th (Encapsulation)\\Vector2.h",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-03T11:43:27.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T11:43:27.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "type_traits",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\type_traits",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\type_traits",
@@ -389,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class4th (Inheritance)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class4th (Inheritance)\\Source.cpp",
@@ -397,12 +431,11 @@
               "RelativeToolTip": "..\\Class4th (Inheritance)\\Source.cpp",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-20T11:12:42.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T11:12:42.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Strength.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Program\\Strength.h",
               "RelativeDocumentMoniker": "Strength.h",
@@ -414,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class1th (Stream)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class1th (Stream)\\Source.cpp",
@@ -426,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",
@@ -434,24 +467,11 @@
               "RelativeToolTip": "..\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-13T12:39:40.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T12:39:40.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "delete_scalar.cpp",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\crt\\src\\vcruntime\\delete_scalar.cpp",
-              "ViewState": "AQIAABsAAAAAAAAAAAAvwCUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-10T12:27:07.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Class2th (Class)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class2th (Class)\\Source.cpp",
