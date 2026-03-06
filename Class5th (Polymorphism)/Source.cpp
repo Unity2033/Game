@@ -1,7 +1,7 @@
-﻿#include "../Program/Message.h"
-#include "../Program/Strength.h"
-#include "../Program/Dexterity.h"
-#include "../Program/Wisdom.h"
+﻿#include "Message.h"
+#include "Strength.h"
+#include "Dexterity.h"
+#include "Wisdom.h"
 #include "../Program/stdafx.h"
 
 int main()
