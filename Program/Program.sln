@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class8th (Priority Queue)",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class9th (Hash Table)", "..\Class9th (Hash Table)\Class9th (Hash Table).vcxproj", "{DE382CEE-6401-491E-B695-437CD993C2AA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class10th (Binary Search Tree)", "..\Class10th (Binary Search Tree)\Class10th (Binary Search Tree).vcxproj", "{89E2CA00-5944-4846-91EE-8C93BE74C26F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{DE382CEE-6401-491E-B695-437CD993C2AA}.Release|x64.Build.0 = Release|x64
 		{DE382CEE-6401-491E-B695-437CD993C2AA}.Release|x86.ActiveCfg = Release|Win32
 		{DE382CEE-6401-491E-B695-437CD993C2AA}.Release|x86.Build.0 = Release|Win32
+		{89E2CA00-5944-4846-91EE-8C93BE74C26F}.Debug|x64.ActiveCfg = Debug|x64
+		{89E2CA00-5944-4846-91EE-8C93BE74C26F}.Debug|x64.Build.0 = Debug|x64
+		{89E2CA00-5944-4846-91EE-8C93BE74C26F}.Debug|x86.ActiveCfg = Debug|Win32
+		{89E2CA00-5944-4846-91EE-8C93BE74C26F}.Debug|x86.Build.0 = Debug|Win32
+		{89E2CA00-5944-4846-91EE-8C93BE74C26F}.Release|x64.ActiveCfg = Release|x64
+		{89E2CA00-5944-4846-91EE-8C93BE74C26F}.Release|x64.Build.0 = Release|x64
+		{89E2CA00-5944-4846-91EE-8C93BE74C26F}.Release|x86.ActiveCfg = Release|Win32
+		{89E2CA00-5944-4846-91EE-8C93BE74C26F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
